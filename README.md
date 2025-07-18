@@ -117,7 +117,7 @@ Clone and set up the project:
 
 ```bash
 git clone https://github.com/shax26/chatgpt-rm.git
-cd chatgpt-response-manager
+cd chatgpt-rm
 ```
 
 ---
