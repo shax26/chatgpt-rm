@@ -35,7 +35,7 @@ This project uses **HTML**, **CSS**, and **JavaScript** for building the Chrome 
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/chatgpt-response-manager.git
+   git clone https://github.com/shax26/chatgpt-rm.git
    cd chatgpt-response-manager
    ```
 2. **Load in Chrome**
@@ -116,7 +116,7 @@ We welcome PRs and contributions from the community!
 Clone and set up the project:
 
 ```bash
-git clone https://github.com/yourusername/chatgpt-response-manager.git
+git clone https://github.com/shax26/chatgpt-rm.git
 cd chatgpt-response-manager
 ```
 
